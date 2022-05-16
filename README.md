@@ -1,2 +1,5 @@
 # IoT-Based-Non-Contact-Portable-Thermal-Scanner-for-COVID-Patient-Screening
-1st Technical Research Paper of mine
+
+Coronavirus disease (COVID-19) is a contagious disease which is caused by a cluster of RNA viruses. Humans are affected by upper respiratory tract infections that can range from mild to deadly state. It is the most challenging work to identify the person in the early stage, who are infected in COVID-19. As a result, it can minimize the secondary transmission also. Here we propose an IoT based non-contact thermal scanner for COVID patient screening. The prototype system can measure temperature in non-contact condition, then the data are store in the cloud database. In utilization for societal development, we developed a mobile App to assist the medical professionals in pre-screening and serve the patients who are infected by this contagious virus. By using this mobile App, we also create public awareness. So it can prevent the community from the spread as early as possible and outbreak the pandemic state.
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rohan+mojumder&oq=rohan+mojum#d=gs_qabs&t=1652721072316&u=%23p%3Dc3CBT7UJYCEJ
